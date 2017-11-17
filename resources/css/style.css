@@ -1,0 +1,54 @@
+.image1 {
+  background-image: url("../images/broadway1.png");
+  background-position: center;
+  height: 330px;
+}
+
+.caption {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+}
+
+#home {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#process {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#work {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#team {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#contact {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
