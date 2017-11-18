@@ -1,52 +1,63 @@
-.image1 {
-  background-image: url("../images/broadway1.png");
-  background-position: center;
-  height: 330px;
+body {
+  font-family: Helvetica, sans-serif;
 }
 
-.caption {
-  font-family: Helvetica;
+.image1 {
+  background-image: url("../images/broadway1.png");
+  height: 330px;
+  color: white;
+}
+
+.caption1 {
+  text-align: center;
   font-size: 70px;
   font-weight: bold;
   color: white;
-  text-align: center;
+}
 
+.nav1 {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.image2 {
+  background-image: url("../images/broadway1.png");
+}
+
+.caption2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
 }
 
 #home {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
   text-decoration: underline;
 }
-
 #process {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
   text-decoration: underline;
 }
-
 #work {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
   text-decoration: underline;
 }
-
 #team {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
   text-decoration: underline;
 }
-
 #contact {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
@@ -54,19 +65,27 @@
 }
 
 .h1 {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   text-align: center;;
 }
 
 .h2 {
-  font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
 }
 
 .p1 {
-  font-family:  Helvetica;
   font-size: 14px;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
+
+.nav2 {
+  color: white;
+
 }
